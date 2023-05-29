@@ -1,0 +1,15 @@
+.card{
+    width: 80%;
+    margin-left: 10%;
+}
+.todoplace{
+    width: 100%;
+    height: fit-content;
+    padding: 1%;
+}
+.alert-danger{
+    display: none;
+}
+.justify-content-between{
+    display: flex;
+}
